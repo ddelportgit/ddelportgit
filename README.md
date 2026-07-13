@@ -5,11 +5,12 @@
 ### About
 
 -   👋 Hi, I’m **Donovan**, a front-end developer.
--   🌐 You should check out my portfolio at [portfolio](https://ddelportgit.github.io/portfolio-main/).
+-   🌐 You should check out my portfolio at [Donovan Portfolio](https://ddelportgit.github.io/portfolio-main/).
+
 ---
 
 ### GitHub Stats
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddelportgit&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+<p align="left">
+  <img alt="Donovan GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ddelportgit&theme=tokyonight&hide_border=true" />
 </p>
