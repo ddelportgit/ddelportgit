@@ -5,7 +5,7 @@
 ### About
 
 -   👋 Hi, I’m **Donovan**, a front-end developer.
--   🌐 You should check out my portfolio at [Donovan Portfolio](https://ddelportgit.github.io/portfolio-main/).
+-   🌐 You should check out my portfolio at [Donovan Portfolio](https://ddelportgit.github.io/portfolio/).
 
 ---
 
