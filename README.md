@@ -18,13 +18,13 @@
 ### 🛠️ What I'm building
 
 - **[BibleMemory](https://bible-memory-project-chi.vercel.app/)** — A Bible memory web app with flash cards, streak tracking, and a dark-first design system. Built with React, Supabase, and the Bolls Life Bible API.
-<img src="https://placehold.co/640x400/d9d9d9/d9d9d9" width="480" height="300" alt="AI Content Repurposing Tool screenshot placeholder"/>
+<img src="images/2.png" width="480" height="300" alt="AI Content Repurposing Tool screenshot placeholder"/>
 
 - **[Habitly](https://habit-tracker-ddgit.vercel.app/)** — A habit tracking app with streak calculation and a GitHub-style contribution heatmap. Built with React and Supabase.
-<img src="https://placehold.co/640x400/d9d9d9/d9d9d9" width="480" height="300" alt="AI Content Repurposing Tool screenshot placeholder"/>
+<img src="images/1.png" width="480" height="300" alt="AI Content Repurposing Tool screenshot placeholder"/>
 
 - **[Repurposer](ai-repurposing-tool.vercel.app)** — Turns long-form content into multi-platform posts using the Gemini API, with tone selection and a responsive mobile UI.
-<img src="https://placehold.co/640x400/d9d9d9/d9d9d9" width="480" height="300" alt="AI Content Repurposing Tool screenshot placeholder"/>
+<img src="images/3.png" width="480" height="300" alt="AI Content Repurposing Tool screenshot placeholder"/>
 
 ---
 
