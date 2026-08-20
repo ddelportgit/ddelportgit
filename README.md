@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://ddelportgit.github.io/portfolio/"> <img src="https://img.shields.io/badge/Portfolio-View-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/> </a>
   <a href="https://github.com/ddelportgit">
     <img src="https://img.shields.io/badge/GitHub-Donovan-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
